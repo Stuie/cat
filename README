@@ -1,0 +1,11 @@
+Put cats.pl and Cat.pm in the same directory and run cats.pl:
+
+./cats.pl
+
+You can specify a number of times for the simulation to be run by
+provising a numeric argument to the script, like this:
+
+./cats.pl 30
+
+The default number of runs is 1, and so the average doesn't really
+mean much of anything.
